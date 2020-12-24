@@ -1,7 +1,7 @@
 # Data-Visualization
 The following repository contains different type of visualizations made using Tableau software. Below are some of the visualization made by me: 
 
-=>**RockingRobin**: 
+=># **RockingRobin**: 
 Rocking Robin is a virtual ice cream chain across the whole United States.The dataset used for this visualization was taken from the internet.Top down approach has been used when creating this visualization. The whole dahboard is highly interactive and is divided as mentioned below. 
 
 1- The top visualization is used to display the overall summary of the business across the whole USA. This helps the business stake holders to see the finances such as total sales, total profit, total expenses etc  upfront.
