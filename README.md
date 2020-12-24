@@ -14,5 +14,9 @@ Rocking Robin is a virtual ice cream chain across the whole United States.The da
 4- Furthermore tabular representation is used to display additional information about the company's product.  The table content is clickable and upon click the other graph display information based on the selection. 
 
 5- Lastyl bar graph is used to compare the profit and sales of Company's each product. The helps the user to understand which is the highest selling product and which items needs more attension to increase it's sale. 
-
 The visualization can be viewed at: https://public.tableau.com/profile/mahad2730#!/vizhome/RockinRobinVisualization/Dashboard
+
+=> **Visualising the Pedestrian Count during COVID 19 restriction**:
+The visualization was created for the Melbourne City council to understand the pedestrian count across the whole melbourne during COVID restriction. There are 23 sensors installed by the melbourne council at various places in melbourne which counts the pedestrian walking past that sensor. The dataset used for this visualizaition is taken from https://data.melbourne.vic.gov.au/Transport/Pedestrian-Counting-System-Monthly-counts-per-hour/b2ak-trbp. The visualisation has been divided into Stage 2, Stage 3 and Stage 4 restrictions. The map in each visualization shows the different location of the sensors and the intensity of the color illustrates the total pedestrian count in the area. Upon clicking on the sensor location the bar graph below displays the hourly trend for the particular area.The line graph helps to understand the daily and monthly trend in pedestrian traffic at each location. This visualization will help for the city council to plan further restrictions in places where the pedestrian is still more during the lockdown. After COVID this visualization can be used for planning buses route to understand where the buses should travel from based on the number of pedestrian. Furthermore, marketing events can be planned based by looking which area is popular at what time of the day. 
+The visualization can be viewed at: https://public.tableau.com/profile/mahad2730#!/vizhome/LockdownRestrictions/Story1
+
