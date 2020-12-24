@@ -14,7 +14,6 @@ Rocking Robin is a virtual ice cream chain across the whole United States.The da
 4- Furthermore tabular representation is used to display additional information about the company's product.  The table content is clickable and upon click the other graph display information based on the selection. 
 
 5- Lastyl bar graph is used to compare the profit and sales of Company's each product. The helps the user to understand which is the highest selling product and which items needs more attension to increase it's sale. 
-
 The visualization can be viewed at: https://public.tableau.com/profile/mahad2730#!/vizhome/RockinRobinVisualization/Dashboard
 
 => **Visualising the Pedestrian Count during COVID 19 restriction**:
